@@ -16,6 +16,8 @@ Welcome to the Data Analysis Playground! 📊 Users can upload various data file
 3. **Write Python scripts in the code editor.**
 4. **Click "Run" to execute the script and view results.**
 
+### Try the app here: https://data-analysis-playground.streamlit.app
+
 ### Feel free to customize and extend the app to suit your unique data analysis needs! 🛠️
 
 ---
